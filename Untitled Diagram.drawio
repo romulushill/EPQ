@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-07T11:01:22.069Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.69" etag="Rvn-9Pe8ZCiAal-qEpq-" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-07T11:07:06.077Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.69" etag="UgT7dqSvahXVY7aQayX4" version="21.7.2" type="github">
   <diagram name="Page-1" id="KkLyy3YzrvQTF0h3_l7L">
-    <mxGraphModel dx="1622" dy="889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1149" dy="630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -124,11 +124,20 @@
         <mxCell id="ceOGNEIKc2-nJIpJ0mOi-44" value="TUNING THE WEIGHTINGS FOR MORE ACCURATE PREDICTIONS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="489" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ceOGNEIKc2-nJIpJ0mOi-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ceOGNEIKc2-nJIpJ0mOi-46" target="ceOGNEIKc2-nJIpJ0mOi-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ceOGNEIKc2-nJIpJ0mOi-46" value="SUBJECTING THE NETWORK TO REAL WORLD PREDICTIONS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="338" y="1140" width="152" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ceOGNEIKc2-nJIpJ0mOi-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ceOGNEIKc2-nJIpJ0mOi-47" target="ceOGNEIKc2-nJIpJ0mOi-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ceOGNEIKc2-nJIpJ0mOi-47" value="TUNING WEIGHTINGS AGAIN TO IMPROVE ACCURACY" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="338" y="1220" width="152" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ceOGNEIKc2-nJIpJ0mOi-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ceOGNEIKc2-nJIpJ0mOi-48" target="ceOGNEIKc2-nJIpJ0mOi-62">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ceOGNEIKc2-nJIpJ0mOi-48" value="ATTEMPT TO PREDICT HUMAN BIAS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="338" y="1300" width="152" height="60" as="geometry" />
@@ -150,6 +159,12 @@
         </mxCell>
         <mxCell id="ceOGNEIKc2-nJIpJ0mOi-51" value="COMPILING TABLE OF TRIAL DATA AND REAL WORLD DATA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="219" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ceOGNEIKc2-nJIpJ0mOi-62" value="DOCUMENT PREDICTION ACCURACY&lt;br&gt;&lt;br&gt;IDENTIFY ANY CATEGORIES THE NETWORK EXCELS IN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="338" y="1380" width="152" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ceOGNEIKc2-nJIpJ0mOi-64" value="EXPERIMENT WITH DATASETS THAT ARE BORDERLINE&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="338" y="1500" width="152" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
